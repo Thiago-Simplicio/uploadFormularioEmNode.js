@@ -44,7 +44,7 @@ app.post("/add", function(req,res){
 
 
 
-
+// porta do servidor
 app.listen(8481, function(){
     console.log("Servidor rodando na porta http://localhost:8481");
 })
