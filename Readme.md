@@ -20,7 +20,7 @@ npm install --save nodemon -g
 no terminal com o diretorio da pasta "index.js" digite
 
 mysql -h localhost -u root -p
-digite a senha : 12345678 
+digite a senha : thi020275
 Pronto
 
 Para ver o banco de dados diite
