@@ -1,3 +1,9 @@
+//Baixar o codigo inteiro
+
+//Após baixar abra os arquivos pelo um editor de texo
+
+//Depois use o terminal com o diretorio da pasta para realizar as seguintes instruções 
+
 // Para criar o arquivo package.json use o comando
 npm init
 
